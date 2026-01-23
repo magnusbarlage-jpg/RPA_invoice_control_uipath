@@ -1,0 +1,10 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "P4_alte Rechnungsdaten l\u00F6schen v1.1 (mit Endbetrag).xaml",
+      "uniqueId": "209c9ea5-1e0f-4a11-b206-804996d4aff1",
+      "type": "process"
+    }
+  ]
+}
