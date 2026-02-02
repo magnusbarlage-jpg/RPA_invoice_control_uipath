@@ -83,7 +83,7 @@ The repository is organized as follows:
 2. Ensure demo files are available in the data folder
 3. Adjust local paths if required
 4. Execute the workflows in the following order:
-   P0 then P2 then P4 then P3 then P5
+   P0 then P1 then P3
 
 ## Data Privacy and Disclaimer
 This repository contains only anonymized demo data.
