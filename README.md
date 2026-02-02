@@ -28,10 +28,10 @@ The automation follows a structured multi step process:
 ## Implemented Workflows
 The solution is split into clearly separated workflows, each representing one logical process step.
 
-### P0 P0_refresh Data export from ERP
+### P0_refresh Data export from ERP
 Automates the update of invoice related export data in the ERP Windows client to ensure up to date reference information for processing.
 
-### P2 P1_Extract Data from PDF Invoices
+### P1_Extract Data from PDF Invoices
 Processes invoice PDF documents using UiPath Document Understanding.
 Includes document digitization with OCR, keyword based classification, and structured data extraction.
 Creates separate datasets for invoice and service related information.
